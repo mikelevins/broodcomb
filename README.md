@@ -12,10 +12,12 @@ eggs and pupae for growing hives.
 2. Install node.js and npm
 3. Install neutralinojs:
     https://neutralino.js.org/docs/getting-started/your-first-neutralinojs-app
-4. Run stage:
+4. clone broodcomb:
+   `git clone https://github.com/mikelevins/broodcomb`
+5. Run stage:
     1. cd into the broodcomb/stage directory
     2. Run `neu run`
-5. Create your app
+6. Create your app
     1. Change the name "broodcomb" to the name of your app in
        `build.sh`, in `build.bat`, and in the sources in src and stage
 
